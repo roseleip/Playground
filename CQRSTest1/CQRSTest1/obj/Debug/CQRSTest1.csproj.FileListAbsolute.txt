@@ -1,0 +1,1 @@
+c:\users\michael\documents\visual studio 2015\Projects\CQRSTest1\CQRSTest1\obj\Debug\CQRSTest1.csprojResolveAssemblyReference.cache
